@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd0e8E7e6e2e87091E74E45aE0325c17428AB6D66",
+  "SCAN_LINK": "https://ftmscan.com/address/0xd0e8E7e6e2e87091E74E45aE0325c17428AB6D66",
+  "NETWORK": {
+    "NAME": "Fantom Opera",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Army Of Threatened",
+  "SYMBOL": "AOT",
+  "MAX_SUPPLY": 2121,
+  "WEI_COST": 500000000000000000.5,
+  "DISPLAY_COST": 5.5,
+  "GAS_LIMIT": 1000000,
+  "MARKETPLACE": "Paintswap",
+  "MARKETPLACE_LINK": "https://paintswap.finance/marketplace/assets/0xd0e8E7e6e2e87091E74E45aE0325c17428AB6D66/",
+  "SHOW_BACKGROUND": true
+}
